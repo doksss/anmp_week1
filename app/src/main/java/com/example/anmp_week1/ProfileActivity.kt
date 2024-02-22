@@ -6,6 +6,7 @@ import android.os.Bundle
 class ProfileActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //Rivaldo Capriadi Lauren
+        //TEST PROFILE BRANCH
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_profile)
     }
