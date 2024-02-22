@@ -6,6 +6,7 @@ import android.os.Bundle
 class LoginActivity : AppCompatActivity() {
     //I Made Rai Michael Timonuli (160421056) Commented
     override fun onCreate(savedInstanceState: Bundle?) {
+        //test branch
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
     }
