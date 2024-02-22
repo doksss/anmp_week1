@@ -7,6 +7,7 @@ class ProfileActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //Rivaldo Capriadi Lauren
         //TEST PROFILE BRANCH
+        //Ini habis dari branch barrrr
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_profile)
     }
