@@ -7,6 +7,7 @@ class SignUpActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //SIGNUP Cek pass email
         //  kenapa error dahh
+        // bug fixed
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sign_up)
         // bug
