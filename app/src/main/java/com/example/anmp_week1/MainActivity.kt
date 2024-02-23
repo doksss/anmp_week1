@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // code baru di sini
         // bug fixed here
+        // bug banget di sini
     }
 }
