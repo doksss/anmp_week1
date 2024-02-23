@@ -13,6 +13,7 @@ class ProfileActivity : AppCompatActivity() {
         //bug fixed
         // bug
         // bug 2
+        // bug 3
 
     }
 }
