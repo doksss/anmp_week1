@@ -12,5 +12,7 @@ class ProfileActivity : AppCompatActivity() {
         setContentView(R.layout.activity_profile)
         //bug fixed
         // bug
+        // bug 2
+
     }
 }
