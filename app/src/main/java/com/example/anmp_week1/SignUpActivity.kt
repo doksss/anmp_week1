@@ -11,5 +11,7 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(R.layout.activity_sign_up)
         // bug
         // bug 1
+        // bug 2
+
     }
 }
