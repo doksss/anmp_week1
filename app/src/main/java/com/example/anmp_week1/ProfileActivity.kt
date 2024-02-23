@@ -10,5 +10,11 @@ class ProfileActivity : AppCompatActivity() {
         //Ini habis dari branch barrrr
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_profile)
+        //bug fixed
+        // bug
+        // bug 2
+        // bug 3
+        // bug 4
+
     }
 }
