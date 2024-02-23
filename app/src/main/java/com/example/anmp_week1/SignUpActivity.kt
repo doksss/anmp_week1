@@ -10,5 +10,6 @@ class SignUpActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sign_up)
         // bug
+        // bug 1
     }
 }
