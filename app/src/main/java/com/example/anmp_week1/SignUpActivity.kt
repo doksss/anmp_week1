@@ -12,6 +12,7 @@ class SignUpActivity : AppCompatActivity() {
         // bug
         // bug 1
         // bug 2
+        // bug 3
 
     }
 }
